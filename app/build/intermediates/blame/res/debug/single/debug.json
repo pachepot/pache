@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pahce_circle.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\drawable\\pahce_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pache_ic_thick_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\pache_ic_thick_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pache_ic.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\pache_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pache_ic_thick.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\pache_ic_thick.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pache_ic_thick_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\pache_ic_thick_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pache_ic.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\pache_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pache_ic_thick.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\pache_ic_thick.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pache_ic_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\pache_ic_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pache_ic.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-anydpi-v26\\pache_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pache_ic_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\pache_ic_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pache_ic_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\pache_ic_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pache_ic_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\pache_ic_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pache_ic_off.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\drawable\\pache_ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pache_ic_thick_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\pache_ic_thick_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pache_ic_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\pache_ic_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pache_ic.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\pache_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pache_ic.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\pache_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pache_ic_on.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\drawable\\pache_ic_on.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pache_ic.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\pache_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pache_ic_thick.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\pache_ic_thick.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pache_ic_thick_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\pache_ic_thick_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pache_ic_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\pache_ic_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pache_ic_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\pache_ic_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pache_ic_thick_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\pache_ic_thick_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_pache_ic_thick_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\pache_ic_thick_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pache_ic_background.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\drawable\\pache_ic_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pache_ic_thick.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\pache_ic_thick.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pache_ic_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\pache_ic_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_pache_ic_thick_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-mdpi\\pache_ic_thick_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pache_ic_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\pache_ic_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pache_ic_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\pache_ic_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pache_ic_round.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-anydpi-v26\\pache_ic_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pache_ic_thick_round.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-anydpi-v26\\pache_ic_thick_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pache_ic_thick_foreground.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\pache_ic_thick_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pache_ic_thick.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\pache_ic_thick.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pache_ic_thick_background.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\drawable\\pache_ic_thick_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pache_ic_thick_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\pache_ic_thick_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_pache_ic_thick_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxhdpi\\pache_ic_thick_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_pache_ic_thick.xml.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-anydpi-v26\\pache_ic_thick.xml"
+    },
+    {
+        "merged": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user1\\AndroidStudioProjects\\Pache\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
